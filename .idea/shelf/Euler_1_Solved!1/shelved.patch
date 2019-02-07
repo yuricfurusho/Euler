@@ -1,0 +1,27 @@
+Index: src/com/yuricfurusho/Euler1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.yuricfurusho;\r\n\r\nimport org.junit.Test;\r\n\r\nimport static org.junit.Assert.assertEquals;\r\n\r\n/*\r\n * Multiples of 3 and 5\r\n * Problem 1\r\n * If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.\r\n * Find the sum of all the multiples of 3 or 5 below 1000.\r\n * */\r\npublic class Euler1 {\r\n\r\n    public static int sumOfMultiples(int x, int y, int max) {\r\n        int sumOfMultiples = 0;\r\n        for (int i = 1; i < max; i++) {\r\n            sumOfMultiples = sumOfMultiples + (i % 3 == 0 || i % 5 == 0 ? i : 0);\r\n        }\r\n\r\n        System.out.print(\"x = \" + x + \"\\n\" + \"y = \" + y + \"\\n\" + \"sumOfMultiples = \" + sumOfMultiples + \"\\n\");\r\n        return sumOfMultiples;\r\n\r\n    }\r\n\r\n    @Test\r\n    public void Problem1() {\r\n        assertEquals(0, sumOfMultiples(3, 5, 1));\r\n        assertEquals(0, sumOfMultiples(3, 5, 2));\r\n        assertEquals(0, sumOfMultiples(3, 5, 3));\r\n        assertEquals(3, sumOfMultiples(3, 5, 4));\r\n        assertEquals(3, sumOfMultiples(3, 5, 5));\r\n        assertEquals(8, sumOfMultiples(3, 5, 6));\r\n        assertEquals(14, sumOfMultiples(3, 5, 7));\r\n        assertEquals(14, sumOfMultiples(3, 5, 8));\r\n        assertEquals(14, sumOfMultiples(3, 5, 9));\r\n        assertEquals(23, sumOfMultiples(3, 5, 10));\r\n        assertEquals(33, sumOfMultiples(3, 5, 11));\r\n        assertEquals(233168, sumOfMultiples(3, 5, 1000));\r\n    }\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/yuricfurusho/Euler1.java	(revision 6332534d864f9cfc355bb1684862f352a8b3c4d8)
++++ src/com/yuricfurusho/Euler1.java	(date 1534528314993)
+@@ -4,7 +4,7 @@
+ 
+ import static org.junit.Assert.assertEquals;
+ 
+-/*
++/**
+  * Multiples of 3 and 5
+  * Problem 1
+  * If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+@@ -24,7 +24,7 @@
+     }
+ 
+     @Test
+-    public void Problem1() {
++    public void testEuler1() {
+         assertEquals(0, sumOfMultiples(3, 5, 1));
+         assertEquals(0, sumOfMultiples(3, 5, 2));
+         assertEquals(0, sumOfMultiples(3, 5, 3));

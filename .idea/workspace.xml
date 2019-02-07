@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9014770-66c4-455b-a72a-220200662e2f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="C:\Users\05849227954\IdeaProjects\Euler\.idea\shelf/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Euler$Euler2_testEuler2.ic" NAME="Euler2.testEuler2 Coverage Results" MODIFIED="1534531254291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yuricfurusho.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="148" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="738503698">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1630" />
+          <entry key="txt" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1630" />
+          <entry key="PLAIN_TEXT" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="java" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="5" />
+          <entry key="git.branch.delete.local" value="2" />
+          <entry key="git.branch.delete.remote" value="1" />
+          <entry key="git.branch.merge" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/yuricfurusho/euler4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sumOfMultiples</find>
+      <find>int</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fibonacci</replace>
+      <replace>sumOfEvenTermsInFibonacci</replace>
+      <replace>long</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/yuricfurusho/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yuricfurusho/Euler2.java" />
+        <option value="$PROJECT_DIR$/src/com/yuricfurusho/Euler1.java" />
+        <option value="$PROJECT_DIR$/src/com/yuricfurusho/Euler60.java" />
+        <option value="$PROJECT_DIR$/src/com/yuricfurusho/euler.java" />
+        <option value="$PROJECT_DIR$/src/com/yuricfurusho/euler3.java" />
+        <option value="$PROJECT_DIR$/src/com/yuricfurusho/Euler3.java" />
+        <option value="$PROJECT_DIR$/src/com/yuricfurusho/euler4.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="782" />
+    <option name="y" value="84" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Euler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="yuricfurusho" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534537504107" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Euler2.testFibonacci">
+    <configuration name="Euler1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuricfurusho.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuricfurusho" />
+      <option name="MAIN_CLASS_NAME" value="com.yuricfurusho.Euler1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euler1.Problem1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuricfurusho.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuricfurusho" />
+      <option name="MAIN_CLASS_NAME" value="com.yuricfurusho.Euler1" />
+      <option name="METHOD_NAME" value="Problem1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euler2.testEuler2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuricfurusho.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuricfurusho" />
+      <option name="MAIN_CLASS_NAME" value="com.yuricfurusho.Euler2" />
+      <option name="METHOD_NAME" value="testEuler2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euler2.testFibonacci" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuricfurusho.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuricfurusho" />
+      <option name="MAIN_CLASS_NAME" value="com.yuricfurusho.Euler2" />
+      <option name="METHOD_NAME" value="testFibonacci" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.Problem1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuricfurusho.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuricfurusho" />
+      <option name="MAIN_CLASS_NAME" value="com.yuricfurusho.Main" />
+      <option name="METHOD_NAME" value="Problem1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Main.Problem1" />
+      <item itemvalue="JUnit.Euler1" />
+      <item itemvalue="JUnit.Euler1.Problem1" />
+      <item itemvalue="JUnit.Euler2.testFibonacci" />
+      <item itemvalue="JUnit.Euler2.testEuler2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Euler2.testEuler2" />
+        <item itemvalue="JUnit.Euler2.testFibonacci" />
+        <item itemvalue="JUnit.Euler1.Problem1" />
+        <item itemvalue="JUnit.Euler1" />
+        <item itemvalue="JUnit.Main.Problem1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9014770-66c4-455b-a72a-220200662e2f" name="Default Changelist" comment="" />
+      <created>1534523936428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534523936428</updated>
+    </task>
+    <task id="LOCAL-00001" summary="project setup">
+      <created>1534524005877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534524005877</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Euler 1 Solved!">
+      <created>1534528081651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534528081651</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Euler 1 Solved!">
+      <created>1534531807726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534531807726</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Euler 1 Solved!">
+      <created>1534531815761</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534531815761</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Euler 1 Solved!">
+      <created>1534531929257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534531929257</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Euler 2 Solved!&#10;Even Fibonacci numbers&#10;Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be:&#10;&#10;1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...&#10;&#10;By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.">
+      <created>1534531985573</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1534531985573</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Euler 2 Solved!&#10;Even Fibonacci numbers&#10;Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be:&#10;&#10;1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...&#10;&#10;By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.&#10;&#10;(cherry picked from commit 6298e4332581023032e2e80f91d52fff622fdd5f)">
+      <created>1534533785683</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1534533785683</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Euler 3 Solved!&#10;/**&#10; * Largest prime factor&#10; * Problem 3&#10; * The prime factors of 13195 are 5, 7, 13 and 29.&#10; *&#10; * What is the largest prime factor of the number 600851475143 ?&#10; */">
+      <created>1534536630799</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1534536630799</updated>
+    </task>
+    <task id="LOCAL-00009" summary="draft4">
+      <created>1534537511577</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1534537511577</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Euler2_testEuler2 - 2018.08.17 at 15h 40m 58s.xml">
+      <configuration name="Euler2.testEuler2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Euler2_testEuler2 - 2018.08.17 at 15h 42m 29s.xml">
+      <configuration name="Euler2.testEuler2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Euler2_testEuler2 - 2018.08.17 at 15h 45m 00s.xml">
+      <configuration name="Euler2.testEuler2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Euler2_testEuler2 - 2018.08.17 at 15h 45m 03s.xml">
+      <configuration name="Euler2.testEuler2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Euler2_testEuler2 - 2018.08.17 at 15h 46m 24s.xml">
+      <configuration name="Euler2.testEuler2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Euler2_testEuler2 - 2018.08.17 at 15h 48m 21s.xml">
+      <configuration name="Euler2.testEuler2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Euler2_testFibonacci - 2018.08.17 at 15h 48m 29s.xml">
+      <configuration name="Euler2.testFibonacci" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Euler2_testFibonacci - 2018.08.17 at 16h 06m 56s.xml">
+      <configuration name="Euler2.testFibonacci" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Euler3_testEuler3 - 2018.08.17 at 17h 08m 41s.xml">
+      <configuration name="Euler3.testEuler3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Euler3_testEuler3 - 2018.08.17 at 17h 09m 45s.xml">
+      <configuration name="Euler3.testEuler3" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2489339" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29826465" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.5097614" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.49946696" visible="true" weight="0.27006507" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="PsiViewer" order="5" weight="0.32995737" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="6" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.1881663" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project setup" />
+    <MESSAGE value="Euler 1 Solved!" />
+    <MESSAGE value="Euler 2 Solved!&#10;Even Fibonacci numbers&#10;Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be:&#10;&#10;1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...&#10;&#10;By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms." />
+    <MESSAGE value="Euler 2 Solved!&#10;Even Fibonacci numbers&#10;Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be:&#10;&#10;1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...&#10;&#10;By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.&#10;&#10;(cherry picked from commit 6298e4332581023032e2e80f91d52fff622fdd5f)" />
+    <MESSAGE value="Euler 3 Solved!&#10;/**&#10; * Largest prime factor&#10; * Problem 3&#10; * The prime factors of 13195 are 5, 7, 13 and 29.&#10; *&#10; * What is the largest prime factor of the number 600851475143 ?&#10; */" />
+    <MESSAGE value="draft4" />
+    <option name="LAST_COMMIT_MESSAGE" value="draft4" />
+    <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Test Results - Euler2_testFibonacci.html" />
+    <entry file="file://$PROJECT_DIR$/src/com/yuricfurusho/Euler60.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yuricfurusho/Euler1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yuricfurusho/Euler2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yuricfurusho/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuricfurusho/Euler3.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yuricfurusho/euler4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
